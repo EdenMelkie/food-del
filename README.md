@@ -7,6 +7,8 @@ A full-stack food delivery platform built with React, Node.js, Express, and Mong
 
 ## 🚀 Live Demo
 
+user panel on https://vercel.com/hailemariams-projects/food-del-ufdi
+admin panel - https://food-del-zeut.vercel.app/
 👉 Coming Soon (or add your deployed URL here)
 
 ---
